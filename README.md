@@ -10,7 +10,7 @@ Para a instalação basta:
    ```
    pip install -r requirements.txt
    ```
-2. Rode o scrpit com:
+2. Rode o script com:
    ```
    scrapy runspider scrapy.py -o escolas.csv
    ```
